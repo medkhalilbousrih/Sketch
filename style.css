@@ -1,0 +1,23 @@
+body{
+    background-color: #0d98ba;
+}
+h1{
+    text-align: center;
+}
+.generate{
+    text-align: center;
+}
+.container{
+    background-color: white;
+    display: flex;
+    flex-flow: row wrap;
+    align-content: flex-start;
+    border: solid black 1px;
+    width: 1000px;
+    height: 500px;
+    margin: 30px auto;
+}
+.grid{
+    background-color: coral;
+}
+
